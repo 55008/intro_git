@@ -4,3 +4,4 @@ git add
 git commit
 複数変更
 git status
+git diff
